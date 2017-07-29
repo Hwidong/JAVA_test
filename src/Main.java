@@ -8,6 +8,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		String [] test = new String[2];
 	
-		System.out.println("test");
+		System.out.println("test2");
 	}
 }
